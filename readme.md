@@ -1,4 +1,4 @@
-# Gen-Fine-tuning Platform
+# AIGC DAO Framework, the Gen-Fine-tuning Module
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Introduction
